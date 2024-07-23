@@ -21,10 +21,20 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://linkedin.com/in/droidlabour" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
+  </a>  
 </div>  
 
 <a href="https://stackexchange.com/users/1657102"><img src="https://stackexchange.com/users/flair/1657102.png" width="208" height="58" alt="profile for droidlabour on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for droidlabour on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+<a href="https://www.freelancer.com/u/joystick220">
+  <img src="https://github.com/droidlabour/droidlabour/blob/828ef4d30cbe582ae276df726047353690cefb96/image.png" />
+</a>
+
+<div>
+  <img src="https://www.freelancer.com/static/css/images/landingpage/hireme-widget-builder/fl-bird-icon.png" style="clear:left;float:left;margin: 10px 0;">
+  <a href="https://www.freelancer.com/affiliates/email/3955905/" style="display: block;text-decoration: underline;margin: 10px 0 10px 10px;vertical-align: middle;height: 21px;float: left">Hire me on Freelancer.com</a>
+</div>
+
 
 ## GitHub Stats:
 ![](https://my-readme-stats-zeta.vercel.app/api?username=droidlabour&hide_border=false&include_all_commits=true&count_private=true)<br/>
