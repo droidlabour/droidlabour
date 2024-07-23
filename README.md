@@ -18,21 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Connect with me  
 <div align="center">
-<a href="https://github.com/droidlabour" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/droidlabour" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/droidlabour" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/1526342/droidlabour" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://linkedin.com/in/droidlabour" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
 </div>  
+
+<a href="https://stackexchange.com/users/1657102"><img src="https://stackexchange.com/users/flair/1657102.png" width="208" height="58" alt="profile for droidlabour on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for droidlabour on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## GitHub Stats:
 ![](https://my-readme-stats-zeta.vercel.app/api?username=droidlabour&hide_border=false&include_all_commits=true&count_private=true)<br/>
