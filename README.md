@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 ## GitHub Stats:
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=droidlabour&icon=0&color=0)](https://visitcount.itsvg.in)
